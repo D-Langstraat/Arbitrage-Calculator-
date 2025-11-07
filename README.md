@@ -1,4 +1,10 @@
-Arbitrage.py is designed to detect currency arbitrage opportunites that 
+Trading on the results of this tool involves real risk, this is not investment advice. 
+
+Please enjoy the calculator - Doug Langstraat
+
+
+
+Arbitrage.py is designed to detect currency arbitrage opportunities that 
 exist on the crypto currency exchanges Coinbase and Kucoin.
 
 Please see associated video: https://youtu.be/sOwl4JtS7Mo
@@ -39,15 +45,9 @@ If the price difference is great enough the crypto will tab outwards and say:
     Coinbase Price: 6
     Difference 1.2
 
-You can use the difference to guauge if the arbitrage opportunity may be worthwhile.
+You can use the difference to gauge if the arbitrage opportunity may be worthwhile.
 
 
-
-
-
-Please enjoy the calculator! And thank you for a great semester!
-
-Doug Langstraat
 
 
 Further Reference:
