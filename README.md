@@ -7,8 +7,6 @@ Please enjoy the calculator - Doug Langstraat
 Arbitrage.py is designed to detect currency arbitrage opportunities that 
 exist on the crypto currency exchanges Coinbase and Kucoin.
 
-Please see associated video: https://youtu.be/sOwl4JtS7Mo
-
 
 Please install CoinGecko Python API wrapper by typing in linux command line.
     pip install pycoingecko
